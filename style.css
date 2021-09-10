@@ -1,5 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Raleway:wght@500;600;700&display=swap");
+
 body{
-  background-color: #50a7af;
+  background: url(images/artin-bakhan-mVHBBiNnlok-unsplash.jpg);
+  background-size: cover;
+  color: #a8d7d1;
 }
 .sidebar {
   height: 100%; /* 100% Full-height */
@@ -47,9 +51,7 @@ body{
   padding: 10px 15px;
   border: none;
 }
-.ri-function{
-  margin-left: 500px;
-}
+
 
 .openbtn:hover {
   background-color: #444;
