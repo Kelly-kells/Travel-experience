@@ -8,4 +8,8 @@ function openNav() {
     document.getElementById("mySidebar").style.width = "0";
     document.getElementById("main").style.marginLeft = "0";
   }
+  function myFunction() {
+    var element = document.body;
+    element.classList.toggle("dark");
+  }
   

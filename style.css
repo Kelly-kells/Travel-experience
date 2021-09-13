@@ -3,19 +3,34 @@
 body{
   background: url(images/artin-bakhan-mVHBBiNnlok-unsplash.jpg);
   background-size: cover;
-  color: #a8d7d1;
+  font-family: 'Spectral', serif !important;
+  color:#edf8fc;
+  
 }
 .sidebar {
-  height: 100%; /* 100% Full-height */
-  width: 0; /* 0 width - change this with JavaScript */
-  position: fixed; /* Stay in place */
-  z-index: 1; /* Stay on top */
+  height: 100%; 
+  width: 0; 
+  position: fixed; 
+  z-index: 1; 
   top: 0;
   left: 0;
-  background-color:#fff; /* Black*/
-  overflow-x: hidden; /* Disable horizontal scroll */
-  padding-top: 60px; /* Place content 60px from the top */
-  transition: 0.5s; /* 0.5 second transition effect to slide in the sidebar */
+  background-color:#fff; 
+  overflow-x: hidden; 
+  padding-top: 60px; 
+  transition: 0.5s; 
+}
+.dark-mode {
+  display: flex;
+  align-items: center;
+  column-gap: 2rem;
+  position: absolute;
+  left: 3rem;
+  bottom: 4rem;
+  
+}
+.dark{
+  background-color: black;
+  color: white;
 }
 
 /* The sidebar links */
@@ -28,12 +43,12 @@ body{
   transition: 0.3s;
 }
 
-/* When you mouse over the navigation links, change their color */
+
 .sidebar a:hover {
   color: #f1f1f1;
 }
 
-/* Position and style the close button (top right corner) */
+
 .sidebar .closebtn {
   position: absolute;
   top: 0;
@@ -67,4 +82,25 @@ body{
 @media screen and (max-height: 450px) {
   .sidebar {padding-top: 15px;}
   .sidebar a {font-size: 18px;}
+}
+/*===ANIMATING  WELOME-TEXT===*/
+.page-text{
+  margin-right: 50px;
+  margin-top: 50px;
+  position: relative;
+  opacity: 1;
+  animation-name: welcome;
+  animation-duration: 3s;
+}
+@keyframes welcome{
+  0%{top: 0; left: 0; }
+ 50%{ left:300px; opacity: 0.2; }
+ 100%{ top: 0 left 0; opacity: 1;}
+    
+}
+.page-btn{
+  background-color: #4defef;
+  color: #0e9fd4a2;
+  border-radius: 30px;
+  margin-top: 50px;
 }
