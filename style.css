@@ -28,7 +28,7 @@ body{
   bottom: 4rem;
   
 }
-.dark{
+.dark .sidebar{
   background-color: black;
   color: white;
 }
@@ -103,4 +103,5 @@ body{
   color: #0e9fd4a2;
   border-radius: 30px;
   margin-top: 50px;
+  border: none;
 }
