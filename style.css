@@ -97,16 +97,25 @@ section{padding: 5rem 10%;}
     background-color: #fff;
    padding: 2rem;
    border-top: 2px solid rgba(86, 111, 158, 0.849);
+   clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
 
   }
+  .header .navbar:active{
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+  }
   .header .navbar a{
-    display: block;
+    display: block !important;
     margin: 2rem;
     text-align: center;
   }
   #menu-btn{
     display: inline-block;
+    transition: .2s linear;
   }
+  #menu-btn.fa-times{
+    transform: rotate(180deg);
+  }
+
 }
 
 @media (max-width:450px){
