@@ -115,7 +115,6 @@ section{padding: 5rem 10%;}
   #menu-btn.fa-times{
     transform: rotate(180deg);
   }
-
 }
 
 @media (max-width:450px){
