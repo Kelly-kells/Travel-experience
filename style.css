@@ -157,6 +157,7 @@ background-attachment: fixed;
     display: block !important;
     margin: 2rem;
     text-align: center;
+    color: black;
   }
   #menu-btn{
     display: inline-block;
