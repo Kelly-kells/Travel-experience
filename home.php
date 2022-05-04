@@ -38,7 +38,41 @@
 <!-- header section ends -->
 
 <!-- home section starts  -->
+<section class="services">
+ <h1 class="heading-title">our services</h1>
+ <div class="box-container">
+    <div class="box">
 
+      <img class="image" src="images/adventure.png" alt="">
+      <h3>adventures</h3>
+    </div>
+
+    <div class="box">
+      <img class="image" src="images/map.png" alt="">
+      <h3>tour guide</h3>
+    </div>
+
+    <div class="box">
+      <img class="image" src="images/man-with-bag-and-walking-stick.png" alt="">
+      <h3>trekking</h3>
+    </div>
+
+    <div class="box">
+      <img class="image" src="images/bonfire.png" alt="">
+      <h3>camp fire</h3>
+    </div>
+
+    <div class="box">
+      <img class="image" src="images/off-road.png" alt="">
+      <h3>off road</h3>
+    </div>
+
+    <div class="box">
+      <img class="image" src="images/camping.png" alt="">
+      <h3>camping</h3>
+    </div>
+ </div>
+</section>
 
 
 
