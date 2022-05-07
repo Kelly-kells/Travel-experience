@@ -22,7 +22,7 @@
 
 <section class="header">
 
-   <a href="home.php" class="logo">travel.</a>
+   <a href="home.php" class="logo">Away</a>
 
    <nav class="navbar">
       <a href="home.php">home</a>
@@ -36,8 +36,42 @@
 </section>
 
 <!-- header section ends -->
+<section class="home">
+   <div class="home-slider">
+      <div class="w">
+         <div class="slide" style="background: url(images/damiano-baschiera-hFXZ5cNfkOk-unsplash.jpg) no-repeat">
+            <div class="content">
+            <span>explore, discover,travel</span>
+            <h3>Travel around the world</h3>
+            <a href="package.php" class="btn">discover more</a>
+            </div>
+         </div>
 
+         <div class="slide" style="background: url(images/damiano-baschiera-hFXZ5cNfkOk-unsplash.jpg) no-repeat">
+            <div class="content">
+            <span>explore, discover,travel</span>
+            <h3>Discover new places
+
+            </h3>
+            <a href="package.php" class="btn">discover more</a>
+            </div>
+         </div>
+
+         <div class="slide" style="background: url(images/damiano-baschiera-hFXZ5cNfkOk-unsplash.jpg) no-repeat">
+            <div class="content">
+            <span>explore, discover,travel</span>
+            <h3>walks that are worth it
+               
+            </h3>
+            <a href="package.php" class="btn">discover more</a>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
 <!-- home section starts  -->
+
+
 <section class="services">
  <h1 class="heading-title">our services</h1>
  <div class="box-container">

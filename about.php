@@ -13,7 +13,7 @@
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
    <!-- custom css file link  -->
-   <link rel="stylesheet" href="css/style.css">
+   <link rel="stylesheet" href="style.css">
 
 </head>
 <body>
@@ -40,3 +40,6 @@
 <div class="heading" style="background:url(images/Bg1.jpg) no-repeat">
    <h1>about us</h1>
 </div>
+
+</html>
+</body>
