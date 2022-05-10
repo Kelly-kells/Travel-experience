@@ -41,5 +41,6 @@
    <h1>about us</h1>
 </div>
 
+<script src="app.js"></script>
 </html>
 </body>

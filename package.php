@@ -40,6 +40,6 @@
 <div class="heading" style="background:url(images/Bg1.jpg) no-repeat">
    <h1>about us</h1>
 </div>
-
+<script src="app.js"></script>
 </html>
 </body>
