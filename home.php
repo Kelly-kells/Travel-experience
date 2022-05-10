@@ -37,9 +37,9 @@
 
 <!-- header section ends -->
 <section class="home">
-   <div class="home-slider">
-      <div class="w">
-         <div class="slide" style="background: url(images/damiano-baschiera-hFXZ5cNfkOk-unsplash.jpg) no-repeat">
+   <div class="swiper home-slider">
+      <div class="swiper-wrapper">
+         <div class="swiper-slide slide" style="background: url(images/chelsea-gates-0653_wY0nRc-unsplash.jpg) no-repeat">
             <div class="content">
             <span>explore, discover,travel</span>
             <h3>Travel around the world</h3>
@@ -47,7 +47,7 @@
             </div>
          </div>
 
-         <div class="slide" style="background: url(images/damiano-baschiera-hFXZ5cNfkOk-unsplash.jpg) no-repeat">
+         <div class="swiper-slide slide" style="background: url(images/damiano-baschiera-hFXZ5cNfkOk-unsplash.jpg) no-repeat">
             <div class="content">
             <span>explore, discover,travel</span>
             <h3>Discover new places
@@ -57,7 +57,7 @@
             </div>
          </div>
 
-         <div class="slide" style="background: url(images/damiano-baschiera-hFXZ5cNfkOk-unsplash.jpg) no-repeat">
+         <div class="swiper-slide slide" style="background: url(images/samuele-errico-piccarini-MCroQe9ykmM-unsplash.jpg) no-repeat">
             <div class="content">
             <span>explore, discover,travel</span>
             <h3>walks that are worth it
@@ -67,6 +67,8 @@
             </div>
          </div>
       </div>
+      <div class="swiper-button-next"></div>
+      <div class="swiper-button-prev"></div>
    </div>
 </section>
 <!-- home section starts  -->
