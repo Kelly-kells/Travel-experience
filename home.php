@@ -110,8 +110,21 @@
  </div>
 </section>
 
+<!--ABOUT SECTION STARTS-->
 
 
+<section class="home-about">
+   <div class="about-image">
+      <img src="images/ali-karimiboroujeni-ARF3El5Lsgs-unsplash.jpg" alt="">
+   </div>
+<div class="content">
+   <h3>About us</h3>
+   <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Recusandae asperiores ducimus, <br>
+      aperiam minus dignissimos et iure ut perspiciatis, atque sunt consectetur<br>
+       repudiandae quos! Quibusdam quod esse eos et ratione minus?</p>
+       <a href="about.php" class="btn"> Read more</a>
+</div>
+</section>
 
 
 
