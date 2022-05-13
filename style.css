@@ -197,12 +197,12 @@ animation:fadeIn .2s linear backwards .2s;
    flex-wrap: wrap;
    gap:3rem;
 }
-.home-about .about-image{
+.home-about .images{
    flex:1 1 41rem;
 }
 
-.home-about .about-image img{
-width: 100%;
+.home-about .images img{
+width: 500px;
 
 }
 .home-about .content{
@@ -223,8 +223,41 @@ width: 100%;
 
 
 
+.home-package .box-container{
+   display: grid;
+   grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+   gap: 2rem;
+}
 
+.home-package .images img{
+   width: 100%; 
+   object-fit: cover;
+   transition: .2s linear;
+   }
 
+   .home-package .box-container .box .images{
+        height: 25rem;
+        overflow: hidden;
+
+   }
+
+   .home-package .box-container .box .content{
+      padding: 2rem;
+      text-align: center;
+   }
+
+   .home-package .box-container .box{
+      border: var(--border);
+      box-shadow: var(--box-shadow);
+   }
+   .home-package .box-container .box .content h3{
+      font-size: 1.5rem;
+   }
+   .home-package .box-container .box .content p{
+      line-height: 2;
+      padding: 1rem 0;
+      font-size: 1.2rem;
+   }
 
 
 
