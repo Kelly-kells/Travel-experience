@@ -149,7 +149,7 @@
 
     <!--PACKAGE SECTION-->
     <section class="home-package">
-      <h1 class="heading">Our packages</h1>
+      <h1 class="heading-title">Our packages</h1>
       <div class="box-container">
         <div class="box">
           <div class="images">
@@ -186,6 +186,25 @@
       </div>
       <div class="load-more"><a href="package.php" class="btn">load more</a></div>
     </section>
+
+
+    <!--HOME_OFFER SECTION-->
+
+<section class="home-offer">
+   <div class="content">
+      <h3>upto 50% discount</h3>
+      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id illum ducimus non iste dicta sunt accusantium assumenda. Debitis, molestiae cumque.</p>
+      <a href="book.php" class="btn">Book now</a>
+   </div>
+</section>
+
+
+
+
+
+
+
+
 
     <section class="footer">
       <div class="box-container">
