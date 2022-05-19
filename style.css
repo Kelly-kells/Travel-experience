@@ -283,6 +283,98 @@ width: 500px;
       line-height: 2;
       padding: 1rem 0;
    }
+   .heading-title{
+      text-align: center;
+      margin-bottom: 3rem;
+      font-size: 5rem;
+      text-transform: uppercase;
+      color: var(--black);
+   }
+
+
+.heading{
+   background-size: cover !important;
+   background-position: cover !important;
+   padding-top: 10rem;
+   padding-bottom: 15rem;
+   display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.heading h1{
+   font-size: 10rem;
+   text-transform: uppercase;
+   color: white;
+   text-shadow: var(--text-shadow);
+}
+.about-section .images img{
+   width: 500px;
+}
+.about-section .images{
+   flex: 1 1 41rem;
+}
+.about-section .content{
+   flex:1 1 41rem;
+   text-align: center;
+}
+.about-section{
+   display: flex;
+   align-items: center;
+   flex-wrap: wrap;
+   gap: 3rem;
+}
+.about-section .content h3{
+   font-size: 3rem;
+   color:var(--black);
+}
+
+.about-section .content p{
+   font-size: 1.5rem;
+   color:var(--light-black);
+   line-height: 2;
+   padding:1rem 0;
+}
+
+.about-section .content .icons-container{
+   margin-top: 2rem;
+   display: flex;
+   flex-wrap: wrap;
+   gap:1.5rem;
+   align-items: flex-end;
+}
+
+.about-section .content .icons-container .icons{
+   background: var(--light-bg);
+   padding:2rem;
+   flex:1 1 16rem;
+}
+
+.about-section .content .icons-container .icons i{
+   font-size: 4rem;
+   margin-bottom: 2rem;
+   color:var(--main-color);
+}
+
+.about .content .icons-container .icons span{
+   font-size: 1.5rem;
+   color:var(--light-black);
+   display:block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -305,13 +397,7 @@ width: 500px;
    height: 50px;
    filter: opacity(0.5) drop-shadow(0 0 0 white);
 }
-.heading-title{
-   text-align: center;
-   margin-bottom: 3rem;
-   font-size: 5rem;
-   text-transform: uppercase;
-   color: var(--black);
-}
+
 
 .services .box-container .box h3{
    color: white;

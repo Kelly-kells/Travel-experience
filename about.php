@@ -40,6 +40,36 @@
 <div class="heading" style="background:url(images/Bg1.jpg) no-repeat">
    <h1>about us</h1>
 </div>
+<!--About section-->
+<section class="about-section">
+   <div class="images">
+      <img src="images/stefan-stefancik-0wMmxNB6Xzc-unsplash.jpg" alt="">
+   </div>
+   <div class="content">
+      <h3>Why choose us?</h3>
+      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam reprehenderit
+          asperiores velit temporibus maiores quam quidem fugit, a fugiat repudiandae.</p>
+      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam reprehenderit asperiores velit
+          temporibus maiores quam quidem fugit, a fugiat repudiandae.</p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio impedit doloribus natus, porro excepturi, nam soluta deleniti consequatur asperiores modi nostrum tempora, laudantium nobis facere!</p>
+   </div>
+   <div class="icons-container">
+      <div class="icons">
+         <i class="fas fa-map"></i>
+         <span>top locations</span>
+      </div>
+
+      <div class="icons">
+         <i class="fas fa-hand-holding-usd"></i>
+         <span>Affordable</span>
+      </div>
+
+      <div class="icons">
+         <i class="fas fa-headset"></i>
+         <span>24/7 guide sevices available</span>
+      </div>
+   </div>
+</section>
 
 </html>
 </body>
