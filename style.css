@@ -330,9 +330,9 @@ width: 500px;
 }
 
 .about-section .content p{
-   font-size: 1.5rem;
+   
    color:var(--light-black);
-   line-height: 2;
+   line-height: 1.5;
    padding:1rem 0;
 }
 
@@ -356,7 +356,7 @@ width: 500px;
    color:var(--main-color);
 }
 
-.about .content .icons-container .icons span{
+.about-section .content .icons-container .icons span{
    font-size: 1.5rem;
    color:var(--light-black);
    display:block;

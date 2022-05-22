@@ -71,5 +71,41 @@
    </div>
 </section>
 
+<section class="reveiws">
+<div class="reveiw-slider">
+   <div class="w">
+      <div class="slide">
+         <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+         </div>
+         
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum magni qui ut delectus recusandae consequuntur, officiis quibusdam harum velit vitae.</p>
+      <h3>Mary Jose</h3>
+      <span>Traveler</span>
+      <img src="images/148167-photos-smiling-woman-business-png-image-high-quality-thumb (1).png" alt="">
+      </div>
+
+      <div class="slide">
+         <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+         </div>
+         
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum magni qui ut delectus recusandae consequuntur, officiis quibusdam harum velit vitae.</p>
+      <h3>Mary Jose</h3>
+      <span>Traveler</span>
+      <img src="images/148167-photos-smiling-woman-business-png-image-high-quality-thumb (1).png" alt="">
+      </div>
+   </div>
+</div>
+</section>
+
 </html>
 </body>
