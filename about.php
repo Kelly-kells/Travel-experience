@@ -56,19 +56,18 @@
    <div class="icons-container">
       <div class="icons">
          <i class="fas fa-map"></i>
-         <span>top locations</span>
+         <span>top destinations</span>
       </div>
-
       <div class="icons">
          <i class="fas fa-hand-holding-usd"></i>
-         <span>Affordable</span>
+         <span>affordable price</span>
       </div>
-
       <div class="icons">
          <i class="fas fa-headset"></i>
-         <span>24/7 guide sevices available</span>
+         <span>24/7 guide services</span>
       </div>
    </div>
+</div>
 </section>
 
 <section class="reveiws">
@@ -94,14 +93,56 @@
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
+            
          </div>
          
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum magni qui ut delectus recusandae consequuntur, officiis quibusdam harum velit vitae.</p>
+      <h3>Benjamin Green>
+      <span>Traveler</span>
+      <img src="images/168557-worker-free-png-hq-thumb.png" alt="">
+      </div>
+
+
+      <div class="slide">
+         <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>  
+         </div>
+         
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, ad dolore iste aspernatur consequatur atque laudantium necessitatibus officiis aut voluptatibus?.</p>
       <h3>Mary Jose</h3>
       <span>Traveler</span>
       <img src="images/148167-photos-smiling-woman-business-png-image-high-quality-thumb (1).png" alt="">
+      </div>
+
+      <div class="slide">
+         <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>  
+         </div>
+         
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, ad dolore iste aspernatur consequatur atque laudantium necessitatibus officiis aut voluptatibus?.</p>
+      <h3>Mary Jose</h3>
+      <span>Traveler</span>
+      <img src="images/61325-management-corporation-executive-chief-facebook-miranda-health-thumb.png" alt="">
+      </div>
+
+      <div class="slide">
+         <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>  
+         </div>
+         
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, ad dolore iste aspernatur consequatur atque laudantium necessitatibus officiis aut voluptatibus?.</p>
+      <h3>Mary Jose</h3>
+      <span>Traveler</span>
+      <img src="images/83477-management-motivational-businessperson-speaker-business-png-file-hd-thumb.png" alt="">
       </div>
    </div>
 </div>

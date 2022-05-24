@@ -309,7 +309,7 @@ width: 500px;
    text-shadow: var(--text-shadow);
 }
 .about-section .images img{
-   width: 500px;
+   width: 700px;
 }
 .about-section .images{
    flex: 1 1 41rem;
@@ -363,8 +363,26 @@ width: 500px;
 }
 
 
+.reveiws{
+   background-color: var(--light-bg);
+}
 
+.reviews .slide{
+   padding:2rem;
+   border:var(--border);
+   background: var(--white);
+   text-align: center;
+   box-shadow: var(--box-shadow);}
 
+   .reviews .slide .stars{
+      padding-bottom: .5rem;
+   }
+
+   
+.reviews .slide .stars i{
+   font-size: 1.7rem;
+   color:var(--main-color);
+}
 
 
 
